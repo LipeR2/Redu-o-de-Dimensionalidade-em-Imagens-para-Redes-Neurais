@@ -3,7 +3,7 @@
 ## Desafio de Projeto: Redução de Dimensionalidade em Imagens para Redes Neurais
 
 ### 🧑🏻‍💻 Projeto de Redução de Dimensionalidade na Imagem Clássica (Lena)
-O projeto consiste em aplicar Redução de Dimensionalidade em uma imagem na rede reural de Deep Learning na linguagem Python no ambiente COLAB.
+O projeto consiste em aplicar Redução de Dimensionalidade em uma imagem na rede neural de Deep Learning na linguagem Python no ambiente COLAB.
 
 Essa técnica tem uma meta fundamental é otimizadar a imagem para uso (ou seja, simplificar a informação visual) dentro de um sistema (Processamento de Imagem/Visão Computacional).
 
