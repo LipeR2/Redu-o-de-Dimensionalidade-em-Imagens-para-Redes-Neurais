@@ -5,13 +5,11 @@
 ### 🧑🏻‍💻 Projeto de Redução de Dimensionalidade na Imagem Clássica (Lena)
 O projeto consiste em aplicar Redução de Dimensionalidade em uma imagem na rede neural de Deep Learning na linguagem Python no ambiente COLAB.
 
-Essa técnica tem uma meta fundamental é otimizadar a imagem para uso (ou seja, simplificar a informação visual) dentro de um sistema (Processamento de Imagem/Visão Computacional).
+Essa técnica tem uma meta fundamental de otimizadar a imagem para uso (ou seja, simplificar a informação visual) dentro de um sistema (Processamento de Imagem/Visão Computacional).
 
 O uso do algoritmo de binarização destaca-se em 2 processos:
 1. Conversão para Tons de Cinza (Gray Scale) da imagem; (dentro do sprecto cinza [0; 255] temos respectivamente [Preto; Branco])
 2. Limiarização (_Thresholding_) da imagem.
-
-
 
 ### 💻 Tecnologias
 Esse projeto foi desenvolvido com as tecnologias:
